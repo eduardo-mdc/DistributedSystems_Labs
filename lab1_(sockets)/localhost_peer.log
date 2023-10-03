@@ -1,0 +1,27 @@
+Sep 26, 2023 10:02:24 AM ds.examples.sockets.peer.Server run
+INFO: server: endpoint running at port 8000 ...
+Sep 26, 2023 10:02:24 AM ds.examples.sockets.peer.Client run
+INFO: client: endpoint running ...
+
+Sep 26, 2023 10:03:55 AM ds.examples.sockets.peer.Server run
+INFO: server: endpoint running at port 8000 ...
+Sep 26, 2023 10:03:55 AM ds.examples.sockets.peer.Client run
+INFO: client: endpoint running ...
+
+Sep 26, 2023 10:04:00 AM ds.examples.sockets.peer.Server run
+INFO: server: new connection from 127.0.0.1
+Sep 26, 2023 10:04:00 AM ds.examples.sockets.peer.Client run
+INFO: client: connected to server localhost/127.0.0.1[port = 8000]
+Sep 26, 2023 10:04:00 AM ds.examples.sockets.peer.Connection run
+INFO: server: message from host 127.0.0.1[command = ]
+Sep 26, 2023 10:04:16 AM ds.examples.sockets.peer.Server run
+INFO: server: endpoint running at port 8000 ...
+Sep 26, 2023 10:04:16 AM ds.examples.sockets.peer.Client run
+INFO: client: endpoint running ...
+
+Sep 26, 2023 10:04:30 AM ds.examples.sockets.peer.Server run
+INFO: server: new connection from 127.0.0.1
+Sep 26, 2023 10:04:30 AM ds.examples.sockets.peer.Client run
+INFO: client: connected to server localhost/127.0.0.1[port = 8000]
+Sep 26, 2023 10:04:30 AM ds.examples.sockets.peer.Connection run
+INFO: server: message from host 127.0.0.1[command =  add 10 10]
