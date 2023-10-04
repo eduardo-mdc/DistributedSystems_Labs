@@ -1,0 +1,71 @@
+Oct 04, 2023 11:03:22 AM PoissonPeer.peer.Server run
+INFO: server: endpoint running at port 5000 ...
+Oct 04, 2023 11:03:22 AM PoissonPeer.peer.Client run
+INFO: client: endpoint running ...
+
+Oct 04, 2023 11:32:10 AM PoissonPeer.peer.Server run
+INFO: server: endpoint running at port 5000 ...
+Oct 04, 2023 11:32:10 AM PoissonPeer.peer.Client run
+INFO: client: endpoint running ...
+
+Oct 04, 2023 11:32:18 AM PoissonPeer.peer.Client sendRandomCommand
+INFO: client: message to send: localhost 5004 mul 0 39
+Oct 04, 2023 11:32:18 AM PoissonPeer.peer.Client sendRandomCommand
+INFO: client: connected to server localhost/127.0.0.1[port = 5004]
+Oct 04, 2023 11:32:26 AM PoissonPeer.peer.Client sendRandomCommand
+INFO: client: message to send: localhost 5004 sub 27 83
+Oct 04, 2023 11:32:26 AM PoissonPeer.peer.Client sendRandomCommand
+INFO: client: connected to server localhost/127.0.0.1[port = 5004]
+Oct 04, 2023 11:32:34 AM PoissonPeer.peer.Client sendRandomCommand
+INFO: client: message to send: localhost 5002 div 49 10
+Oct 04, 2023 11:32:34 AM PoissonPeer.peer.Client sendRandomCommand
+INFO: client: connected to server localhost/127.0.0.1[port = 5002]
+Oct 04, 2023 11:32:42 AM PoissonPeer.peer.Client sendRandomCommand
+INFO: client: message to send: localhost 5004 sub 69 86
+Oct 04, 2023 11:32:42 AM PoissonPeer.peer.Client sendRandomCommand
+INFO: client: connected to server localhost/127.0.0.1[port = 5004]
+Oct 04, 2023 11:36:16 AM PoissonPeer.peer.Server run
+INFO: server: endpoint running at port 5000 ...
+Oct 04, 2023 11:36:16 AM PoissonPeer.peer.Client run
+INFO: client: endpoint running ...
+
+Oct 04, 2023 11:36:21 AM PoissonPeer.peer.Server run
+INFO: server: new connection from 127.0.0.1
+Oct 04, 2023 11:36:21 AM PoissonPeer.peer.Connection run
+INFO: server: message from host 127.0.0.1[command = sub 45 82]
+Oct 04, 2023 11:36:25 AM PoissonPeer.peer.Server run
+INFO: server: new connection from 127.0.0.1
+Oct 04, 2023 11:36:25 AM PoissonPeer.peer.Connection run
+INFO: server: message from host 127.0.0.1[command = sub 79 88]
+Oct 04, 2023 11:36:26 AM PoissonPeer.peer.Client sendRandomCommand
+INFO: client: message to send: localhost 5003 mul 53 6
+Oct 04, 2023 11:36:26 AM PoissonPeer.peer.Client sendRandomCommand
+INFO: client: connected to server localhost/127.0.0.1[port = 5003]
+Oct 04, 2023 11:36:26 AM PoissonPeer.peer.Client sendRandomCommand
+INFO: client: result = 318.0
+Oct 04, 2023 11:36:27 AM PoissonPeer.peer.Client sendRandomCommand
+INFO: client: message to send: localhost 5004 mul 38 90
+Oct 04, 2023 11:36:27 AM PoissonPeer.peer.Client sendRandomCommand
+INFO: client: connected to server localhost/127.0.0.1[port = 5004]
+Oct 04, 2023 11:36:27 AM PoissonPeer.peer.Client sendRandomCommand
+INFO: client: result = 3420.0
+Oct 04, 2023 11:36:28 AM PoissonPeer.peer.Server run
+INFO: server: new connection from 127.0.0.1
+Oct 04, 2023 11:36:28 AM PoissonPeer.peer.Connection run
+INFO: server: message from host 127.0.0.1[command = sub 33 5]
+Oct 04, 2023 11:36:31 AM PoissonPeer.peer.Client sendRandomCommand
+INFO: client: message to send: localhost 5004 add 62 72
+Oct 04, 2023 11:36:31 AM PoissonPeer.peer.Client sendRandomCommand
+INFO: client: connected to server localhost/127.0.0.1[port = 5004]
+Oct 04, 2023 11:36:31 AM PoissonPeer.peer.Client sendRandomCommand
+INFO: client: result = 134.0
+Oct 04, 2023 11:36:34 AM PoissonPeer.peer.Client sendRandomCommand
+INFO: client: message to send: localhost 5002 div 43 54
+Oct 04, 2023 11:36:34 AM PoissonPeer.peer.Client sendRandomCommand
+INFO: client: connected to server localhost/127.0.0.1[port = 5002]
+Oct 04, 2023 11:36:34 AM PoissonPeer.peer.Client sendRandomCommand
+INFO: client: result = 0.7962962962962963
+Oct 04, 2023 11:36:40 AM PoissonPeer.peer.Server run
+INFO: server: new connection from 127.0.0.1
+Oct 04, 2023 11:36:40 AM PoissonPeer.peer.Connection run
+INFO: server: message from host 127.0.0.1[command = add 70 57]
