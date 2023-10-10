@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="740d05fd-dcf0-42c9-8065-0d978b11d8e8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proto.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2_(rpc)/PoissonPeer/peer/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2_(rpc)/PoissonPeer/peer/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2_(rpc)/localhost:5000_peer.log" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2_(rpc)/localhost:5000_peer.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2_(rpc)/localhost:5001_peer.log" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2_(rpc)/localhost:5001_peer.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2_(rpc)/localhost:5002_peer.log" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2_(rpc)/localhost:5002_peer.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2_(rpc)/localhost:5003_peer.log" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2_(rpc)/localhost:5003_peer.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2_(rpc)/localhost:5004_peer.log" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2_(rpc)/localhost:5004_peer.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2_(rpc)/out/production/lab2_(rpc)/localhost:5000_peer.log" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2_(rpc)/out/production/lab2_(rpc)/localhost:5000_peer.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2_(rpc)/out/production/lab2_(rpc)/localhost:5001_peer.log" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2_(rpc)/out/production/lab2_(rpc)/localhost:5001_peer.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2_(rpc)/out/production/lab2_(rpc)/localhost:5002_peer.log" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2_(rpc)/out/production/lab2_(rpc)/localhost:5002_peer.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2_(rpc)/out/production/lab2_(rpc)/localhost:5003_peer.log" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2_(rpc)/out/production/lab2_(rpc)/localhost:5003_peer.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2_(rpc)/out/production/lab2_(rpc)/localhost:5004_peer.log" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2_(rpc)/out/production/lab2_(rpc)/localhost:5004_peer.log" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2WZAEPh4Rt7OFWZYrnGy7aQO5iN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/eduardo-mdc/Documents/GitHub/DistributedSystems_Labs/lab2_(rpc)",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="740d05fd-dcf0-42c9-8065-0d978b11d8e8" name="Changes" comment="" />
+      <created>1696929618962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696929618962</updated>
+      <workItem from="1696929620018" duration="212000" />
+      <workItem from="1696929837713" duration="441000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

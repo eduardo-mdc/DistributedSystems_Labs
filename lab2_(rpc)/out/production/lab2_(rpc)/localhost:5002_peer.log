@@ -81,3 +81,8 @@ Oct 04, 2023 11:36:40 AM PoissonPeer.peer.Client sendRandomCommand
 INFO: client: connected to server localhost/127.0.0.1[port = 5000]
 Oct 04, 2023 11:36:40 AM PoissonPeer.peer.Client sendRandomCommand
 INFO: client: result = 127.0
+Oct 04, 2023 11:39:17 AM PoissonPeer.peer.Server run
+INFO: server: endpoint running at port 5002 ...
+Oct 04, 2023 11:39:17 AM PoissonPeer.peer.Client run
+INFO: client: endpoint running ...
+

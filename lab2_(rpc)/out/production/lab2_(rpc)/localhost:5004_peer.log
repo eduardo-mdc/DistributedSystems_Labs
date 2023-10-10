@@ -119,3 +119,8 @@ Oct 04, 2023 11:36:39 AM PoissonPeer.peer.Server run
 INFO: server: new connection from 127.0.0.1
 Oct 04, 2023 11:36:39 AM PoissonPeer.peer.Connection run
 INFO: server: message from host 127.0.0.1[command = div 61 25]
+Oct 04, 2023 11:39:17 AM PoissonPeer.peer.Server run
+INFO: server: endpoint running at port 5004 ...
+Oct 04, 2023 11:39:17 AM PoissonPeer.peer.Client run
+INFO: client: endpoint running ...
+

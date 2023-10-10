@@ -19,7 +19,7 @@ class Client implements Runnable {
     Scanner scanner;
     Integer[] availablePorts;
 
-    static final int lambda = 10;
+    static final int lambda = 5;
 
 
     public Client(String host, Integer[] availablePorts, Logger logger) throws Exception {
